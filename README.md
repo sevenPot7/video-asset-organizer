@@ -157,6 +157,21 @@ SQLite 是唯一主索引。飞书离线或失败不会影响扫描、媒体导�
 
 脚本会建立独立的 `.buildenv`，生成无控制台窗口的 one-folder 程序，并在 `release` 目录创建便携 ZIP。发布包只包含 `ffmpeg.exe` 和 `ffprobe.exe`，不会包含约 100 MB 且应用未使用的 `ffplay.exe`。
 
+## 反馈与支持
+
+遇到软件错误、导出问题或有功能建议，请提交
+[GitHub Issue](https://github.com/sevenPot7/video-asset-organizer/issues)。
+
+反馈时请尽量附上：
+
+- 软件版本
+- Windows 版本
+- 剪映版本
+- 操作步骤
+- 错误截图或日志
+
+请勿上传视频原文件、飞书 App Secret、数据库或包含隐私信息的日志。
+
 ## 隐私、许可与声明
 
 - 隐私说明见 [PRIVACY.md](PRIVACY.md)。
